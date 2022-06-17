@@ -14,6 +14,6 @@ for a given task.
 Relevant Files for the Project:
 *******************
 
-Models - crud_model.php
-Views - crud_view.php, edit_view.php
-Controllers - Crud.php
+| Models - crud_model.php 
+| Views - crud_view.php, edit_view.php
+| Controllers - Crud.php
